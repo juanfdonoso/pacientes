@@ -1,5 +1,5 @@
 # Ejercicio registro y edición de pacientes
 
-En este ejercicio realizaremos búqueda, ingreso, edición y borrado de registros de la base de datos simulado el directorio de pacientes de una cierta organización
+En esta rama se muestra cómo obtener un listado de pacientes, por apellido, de acuerdo a la letra seleccionada con la que inicia el apellido
 
-Los archivos de este Branch son los requeridos para iniciar el ejercicio
+Del listado obtenido, se puede dar un click en el apellido de un paciente para que aparezca una tarjeta que muestra toda la información del paciente
